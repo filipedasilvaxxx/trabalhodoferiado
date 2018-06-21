@@ -104,3 +104,8 @@ button:hover{
 
 	
 }
+.video iframe{
+	display: inline-block;
+	max-width:500px;
+	
+}

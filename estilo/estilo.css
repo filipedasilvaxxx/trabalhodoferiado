@@ -1,0 +1,106 @@
+*{
+	font-family: verdana;
+	margin: 0;
+	background-image:url(../imagens/tema.jpg); 
+}
+.container{
+	max-width: 1100px;
+	margin: 0 auto; 
+}
+nav{
+	text-align: center;
+	 margin-top: 30px;
+	
+}
+nav li a{
+	
+	border-radius: 10px;
+}
+nav ol{
+	background: repeating-linear-gradient(90deg, #009c3b, #009c3b 5px, #ffdf00 20px, #002776 5px, #fff 5px);
+
+
+}
+h1{
+	text-align: center;
+	color: #fff;
+}
+.menu{
+	list-style: none;
+}
+.menu li{
+	display: inline;
+	text-transform: uppercase; */ lowercase*/
+} 
+
+.menu li a{
+	background: repeating-linear-gradient(90deg, #009c3b, #009c3b 5px, #ffdf00 20px, #002776 5px, #fff 5px);
+	text-decoration: none;
+	color: #002776;
+	padding: 10px;
+	display: inline-block;
+}
+.menu li a:hover{
+	color: #ffdf00	;
+	
+}
+#principal{
+	min-height:600px;
+}
+footer{
+	 text-align: center;
+	 border-top: solid 2px #000;
+	 border-bottom: solid 2px #000; 
+	max-width: 1100px;
+	height: 50px;
+	color: #fff;
+	
+}
+
+fieldset{
+	width: 60%;
+	margin: 20px auto;
+	color: #fff;
+}
+.esq{
+	width: 20%;
+	display: inline-block;
+	text-align: right;
+	vertical-align: top;
+}
+.dir{
+	width: 70%;
+	display: inline-block;
+	text-align: left;
+	color: #fff;
+}
+button{
+	border: solid 2px #09f;
+	border-radius: 10px;
+	padding:5px;
+	background-color: #fff;
+	color: #05f
+}
+button:hover{
+	background-color: #05f;
+	color: #fff;
+}
+
+.foto img{
+	width: 400px;
+	height:200px;
+	margin: 0 auto;
+
+}.gabi img{
+	width: 1100px;
+	margin: 0 auto;
+	
+
+}
+.foto{
+	color: #000;
+	text-align: justify;
+	font-weight: bold;
+
+	
+}

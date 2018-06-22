@@ -88,24 +88,16 @@ button:hover{
 
 .foto img{
 	width: 400px;
-	height:200px;
+	height: 200px;
 	margin: 0 auto;
-
-}.gabi img{
+}
+.gabi img{
 	width: 1100px;
 	margin: 0 auto;
-	
-
 }
 .foto{
 	color: #000;
 	text-align: justify;
 	font-weight: bold;
+}
 
-	
-}
-.video iframe{
-	display: inline-block;
-	max-width:500px;
-	
-}
